@@ -5,7 +5,7 @@
 
 Comparative analysis of VIIRS nighttime light data between Lahore (Pakistan) and Potsdam (Germany) from 2013-2021.
 
-![Sample Output](outputs/figures/trends.png)
+![Sample Output](Compare of Potsdam_Lahore)
 
 ##  Features
 - Processes VIIRS .tif files to extract mean radiance values
